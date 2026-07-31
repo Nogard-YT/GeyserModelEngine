@@ -3,6 +3,9 @@ name: GeyserModelEngine
 version: '${version}'
 api-version: '1.21'
 
+# if it works it works, if not it's not
+folia-supported: true
+
 authors:
   - zimzaza4
   - willem.dev
