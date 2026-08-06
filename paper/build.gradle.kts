@@ -40,7 +40,7 @@ repositories {
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21.11-R0.1-SNAPSHOT")
-    implementation("dev.jorel:commandapi-paper-shade:11.2.0")
+    implementation("dev.jorel:commandapi-paper-shade:12.0.0")
 
     compileOnly("com.ticxo.modelengine:ModelEngine:R4.1.0")
     compileOnly("io.github.toxicity188:bettermodel-api:2.2.0")
